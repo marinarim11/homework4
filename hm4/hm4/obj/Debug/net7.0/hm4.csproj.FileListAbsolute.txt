@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/bin/Debug/net7.0/hm4
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/bin/Debug/net7.0/hm4.deps.json
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/bin/Debug/net7.0/hm4.runtimeconfig.json
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/bin/Debug/net7.0/hm4.dll
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/bin/Debug/net7.0/hm4.pdb
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.dll
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/refint/hm4.dll
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.pdb
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/hm4.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/dz44/hm4/hm4/obj/Debug/net7.0/ref/hm4.dll

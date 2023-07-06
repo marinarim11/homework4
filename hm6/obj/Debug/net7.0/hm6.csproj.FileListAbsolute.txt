@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/dz44/hm6/bin/Debug/net7.0/hm6
+/Users/marinagrecko/Desktop/dz44/hm6/bin/Debug/net7.0/hm6.deps.json
+/Users/marinagrecko/Desktop/dz44/hm6/bin/Debug/net7.0/hm6.runtimeconfig.json
+/Users/marinagrecko/Desktop/dz44/hm6/bin/Debug/net7.0/hm6.dll
+/Users/marinagrecko/Desktop/dz44/hm6/bin/Debug/net7.0/hm6.pdb
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.dll
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/refint/hm6.dll
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.pdb
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/hm6.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/dz44/hm6/obj/Debug/net7.0/ref/hm6.dll
